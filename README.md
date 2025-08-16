@@ -30,9 +30,9 @@ Mis hobbies principales son:
 ---
 
 ### 🚀 Skills & Interests
--Salesforce (developer,admin, Custom Components)
--Python (Automation, Scripting)
--Cybersecurity Basics (Ethical Hacking, Networking)
+- Salesforce (developer,admin, Custom Components)
+- Python (Automation, Scripting)
+- Cybersecurity Basics (Ethical Hacking, Networking)
 
 Siempre aprendiz / Entered Apprentice
 RR AP∴
