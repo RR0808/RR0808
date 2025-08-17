@@ -27,7 +27,9 @@
 ###
 
 <p align="left">I am passionate about technology 💻. I really enjoy cybersecurity 🛡️ and programming 👨‍💻. I am always learning new things 📚.  <br><br>Currently, I work as a **Salesforce Administrator**, but on my own, I enjoy building my personal components and integrations 🔧✨, as well as studying **Python 🐍** and diving into **intro to cybersecurity**.  <br><br>My main hobbies are:  <br>- Spending time with my wife and dogs 🐶❤️  <br>- Working out at home 🏋️‍♂️  <br>- And, as a true tech lover, playing video games 🎮<br><br></p>
+
 ---
+
 ###
 
 <h3 align="left">🇲🇽 Español</h3>
