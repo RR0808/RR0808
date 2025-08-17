@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RR0808.RR0808&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RR0808.RR0808"  />
 </div>
 
 ###
@@ -26,15 +26,18 @@
 
 ###
 
-<p align="left">I am passionate about technology 💻. I really enjoy cybersecurity 🛡️ and programming 👨‍💻. I am always learning new things 📚.  <br><br>Currently, I work as a **Salesforce Administrator**, but on my own, I enjoy building my personal components and integrations 🔧✨, as well as studying **Python 🐍** and diving into **intro to cybersecurity**.  <br><br>My main hobbies are:  <br>- Spending time with my wife and dogs 🐶❤️  <br>- Working out at home 🏋️‍♂️  <br>- And, as a true tech lover, playing video games 🎮<br><br>---</p>
-
+<p align="left">I am passionate about technology 💻. I really enjoy cybersecurity 🛡️ and programming 👨‍💻. I am always learning new things 📚.  <br><br>Currently, I work as a **Salesforce Administrator**, but on my own, I enjoy building my personal components and integrations 🔧✨, as well as studying **Python 🐍** and diving into **intro to cybersecurity**.  <br><br>My main hobbies are:  <br>- Spending time with my wife and dogs 🐶❤️  <br>- Working out at home 🏋️‍♂️  <br>- And, as a true tech lover, playing video games 🎮<br><br></p>
+---
 ###
 
 <h3 align="left">🇲🇽 Español</h3>
 
 ###
 
-<p align="left">Soy un apasionado de la tecnología 💻. Me encanta el mundo de la ciberseguridad 🛡️ y la programación 👨‍💻. Siempre estoy aprendiendo cosas nuevas 📚.  <br><br>Actualmente trabajo como **Administrador de Salesforce**, pero por mi cuenta disfruto crear mis propios componentes e integraciones 🔧✨, así como estudiar **Python 🐍** y aprender más sobre **introducción a la ciberseguridad**.  <br><br>Mis hobbies principales son:  <br>- Pasar tiempo con mi esposa y mis perros 🐶❤️  <br>- Hacer ejercicio en casa 🏋️‍♂️  <br>- Y, como buen amante de la tecnología, jugar videojuegos 🎮  <br><br>---<br><br>
+<p align="left">Soy un apasionado de la tecnología 💻. Me encanta el mundo de la ciberseguridad 🛡️ y la programación 👨‍💻. Siempre estoy aprendiendo cosas nuevas 📚.  <br><br>Actualmente trabajo como **Administrador de Salesforce**, pero por mi cuenta disfruto crear mis propios componentes e integraciones 🔧✨, así como estudiar **Python 🐍** y aprender más sobre **introducción a la ciberseguridad**.  <br><br>Mis hobbies principales son:  <br>- Pasar tiempo con mi esposa y mis perros 🐶❤️  <br>- Hacer ejercicio en casa 🏋️‍♂️  <br>- Y, como buen amante de la tecnología, jugar videojuegos 🎮  <br><br><br><br>
+
+---
+
 ### 🚀 Skills & Interests<br>- Salesforce (developer,admin, Custom Components)<br>- Python (Automation, Scripting)<br>- Cybersecurity Basics (Ethical Hacking, Networking)<br><br>Siempre aprendiz / Entered Apprentice<br>RR AP∴</p>
 
 ###
